@@ -25,7 +25,7 @@ Sponsors are also subject to the anti-harassment policy. In particular, sponsors
 
 If a participant engages in harassing behavior, the conference organizers may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund.
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff immediately. Conference staff can be identified by a black conference shirt with a pink or black square JSConf EU logo.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff immediately. Conference staff can be identified by a red lanyard.
 
 In case you can’t find a staff member, Tracy Abrahms is always there for you: [@hackygolucky](http://twitter.com/hackygolucky), [tracy@cascadiajs.com](mailto:tracy@cascadiajs.com).
 
